@@ -1,5 +1,5 @@
 #include "MagicBeauty.h"
-#include "Math.h"
+#include "math.h"
 #include "bitmap/BitmapOperation.h"
 #include "bitmap/Conversion.h"
 
